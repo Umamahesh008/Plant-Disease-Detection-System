@@ -6,8 +6,8 @@ This project is an AI-powered Plant Disease Detection System for Sustainable Agr
 1. Image Upload: Users can upload plant images for disease detection.
 2. Deep Learning Model: A trained TensorFlow/Keras model classifies plant diseases.
 3. Streamlit Web App: Provides an intuitive UI for easy interaction.
-4.Wide Range of Diseases: Identifies multiple plant diseases across different crops.
-5.Instant Results: Provides quick predictions with a user-friendly interface.
+4. Wide Range of Diseases: Identifies multiple plant diseases across different crops.
+5. Instant Results: Provides quick predictions with a user-friendly interface.
 
 # 🏗️ Tech Stack
 Frontend: Streamlit
